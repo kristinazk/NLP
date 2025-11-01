@@ -25,8 +25,7 @@ This project performs sentiment analysis on Twitter data, classifying tweets int
     - Logistic Regression (with cross-validation)
 
 3. **Model Evaluation**
-    - Accuracy and F1-score calculation
-    - Confusion matrix visualization
+    - Accuracy and Confusion Matrix Calculation
     - Analysis of results and identification of possible improvements
 
 ---
